@@ -1,0 +1,74 @@
+{
+  "Ferreira_Lucas_Case.ipynb": {
+    "description": "Classificação de texto e comparação de modelos de NLP.",
+    "area": ["nlp", "ml"],
+    "arquitetura": ["tf-idf", "bert"],
+    "ano": 2026,
+    "tipo": "pessoal",
+    "colaboracao": "individual",
+    "ordem": 1
+  },
+  "Multimodalidade.ipynb": {
+    "description": "Classificação multimodal de discurso de ódio.",
+    "area": ["multimodal", "nlp", "cv"],
+    "arquitetura": ["clip", "bert", "resnet"],
+    "ano": 2025,
+    "tipo": "academico",
+    "colaboracao": "grupo",
+    "ordem": 6
+  },
+  "Mapeamento_de_Teses_e_Dissertações_em_Temas_Estratégicos.ipynb": {
+    "description": "Busca semântica em teses usando embeddings e LLM.",
+    "area": ["nlp"],
+    "arquitetura": ["embeddings", "llm"],
+    "ano": 2025,
+    "tipo": "academico",
+    "colaboracao": "grupo",
+    "ordem": 3
+  },
+  "urban_issues.ipynb": {
+    "description": "Classificação de imagens de problemas urbanos.",
+    "area": ["cv", "ml"],
+    "arquitetura": ["efficientnet", "mlp"],
+    "ano": 2025,
+    "tipo": "academico",
+    "colaboracao": "grupo",
+    "ordem": 2
+  },
+  "ZomatoBangaloreRestaurants.ipynb": {
+    "description": "Classificação de culinárias a partir de ingredientes.",
+    "area": ["ml", "nlp"],
+    "arquitetura": ["tf-idf", "sklearn"],
+    "ano": 2025,
+    "tipo": "academico",
+    "colaboracao": "grupo",
+    "ordem": 5
+  },
+  "BinaryClassificationWithABankDataset.ipynb": {
+    "description": "Predição de adesão a depósito bancário.",
+    "area": ["ml", "classification"],
+    "arquitetura": ["tree models"],
+    "ano": 2025,
+    "tipo": "academico",
+    "colaboracao": "grupo",
+    "ordem": 4
+  },
+  "trabalho1AM.ipynb": {
+    "description": "Regressão para predição de severidade em pacientes.",
+    "area": ["ml", "regression"],
+    "arquitetura": ["svm", "mlp"],
+    "ano": 2025,
+    "tipo": "academico",
+    "colaboracao": "grupo",
+    "ordem": 7
+  },
+  "Trabalho2AM_Atualizado.ipynb": {
+    "description": "Clusterização de dados alimentares e microplásticos.",
+    "area": ["ml", "clustering"],
+    "arquitetura": ["kmeans", "pca"],
+    "ano": 2025,
+    "tipo": "academico",
+    "colaboracao": "grupo",
+    "ordem": 8
+  }
+}

@@ -1,0 +1,14 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.DS_Store
+
+# generated files
+public/generated/notebooks/*.html
+public/generated/data/catalog.json
+
+# optional
+.venv/
+venv/
+.env
